@@ -5,8 +5,10 @@ With the interface calculator you can find the tilt series to tilt along or acro
 
 The UnknownCrystalGUI allows the user to discover the crystal type and orientation by inputting a few known pole locations.
 
+![gui](/screen_shots/gui.png)
 
 
+![interface calculator](/screen_shots/interface_calc.png)
 
 
 
